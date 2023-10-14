@@ -1,0 +1,6 @@
+vscode:
+  extensions:
+    - "vscodevim.vim"
+    - "vscode-icons-team.vscode-icons"
+    - "eamodio.gitlens"
+    - "dsznajder.es7-react-js-snippets"
